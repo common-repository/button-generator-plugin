@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: uuhello-button-generator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-06 19:50+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: fdsfs <sdfds@sdfds.cvdsom>\n"
+"Language-Team: wpdevelop <info@wpdevelop.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Bookmarks: 49,183,-1,-1,-1,-1,-1,-1,-1,-1\n"
+
+msgid "Button generator"
+msgstr "按钮生成器"
+
+msgid "Please Register uuhello.com to generate the button!"
+msgstr "在使用按钮生成器前，请先注册成为uuhello.com会员"
+
+msgid "http://uuhello.com/button_en"
+msgstr "http://uuhello.com/button"
+
